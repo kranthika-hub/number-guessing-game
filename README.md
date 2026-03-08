@@ -1,12 +1,16 @@
+# Number Guessing Game 🎮
 
-# Number Guessing Game
+A simple Python game where the computer generates a random number and the player tries to guess it.
 
-This is a simple Python game where the computer generates a random number.
-The player tries to guess the number.
-
-Features:
+## Features
 - Difficulty levels
 - Hint system
 - Attempt counter
 
-Built using Python.
+## How to Run
+1. Download the file
+2. Run the program using Python:
+python game.py
+
+## Author
+Kranthika Karthikeyan
